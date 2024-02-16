@@ -100,7 +100,7 @@ content:
         quote: >
           The CUCEI was created in 1994, based on the former faculties of Sciences, Chemical Sciences, Informatics and Computing and Engineering. in addition to the Wood, Pulp and Paper Institutes; Astronomy and Meteorology (IAM) and the Directorate of Linkage and Technology Transfer.
         description: | # this will include new lines to allow paragraphs
-          During my studies at CUCEI, I learned many more concepts that I did not know before, I know more about programming, databases, web pages, programming algorithms, improving the performance of my programs, etc. I learned to manage institutional pages with the CMS DDE Drupal... I know how to program with C++ better.
+          During my studies at CUCEI, I learned many more concepts that I did not know before, I know more about programming, databases, web pages, programming algorithms, improving the performance of my programs, etc. I learned to manage institutional pages with the CMS Drupal... I know how to program with C++ better.
 
           Every time I learned more and more about the world of technology and artificial intelligence.
 
@@ -108,13 +108,9 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
       - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      - listen to music
+      - watch videos
 
 # Footer
 footer_show_references: true
