@@ -25,15 +25,11 @@ instagram_username: aaronhs2848
 linkedin_username: aaronhuerta9115
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: coddy5880
+youtube_username: C0ddy6
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
 - title: Credly
   icon: fas fa-certificate
   url: https://www.credly.com/users/aaron-huerta-sigala
