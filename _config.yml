@@ -1,5 +1,5 @@
 # Site
-repository: Coddy6/coddy6.github.io
+repository: coddy6
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -8,8 +8,7 @@ version: 2
 # Personal info
 name: Aaron Huerta
 title: Senior Network System Administrator
-email: enginesoftw@gamil.com
-email2: aaron.huerta9115@alumnos.udg.mx
+email: enginesoftw@gamil.com / aaron.huerta9115@alumnos.udg.mx
 website: www.github.com/Coddy6
 
 # Dark Mode (true/false/never)
