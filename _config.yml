@@ -8,7 +8,8 @@ version: 2
 # Personal info
 name: Aaron Huerta
 title: Senior Network System Administrator
-email: enginesoftw@gamil.com / aaron.huerta9115@alumnos.udg.mx
+email: enginesoftw@gamil.com
+email: aaron.huerta9115@alumnos.udg.mx
 website: www.github.com/Coddy6
 
 # Dark Mode (true/false/never)
@@ -25,7 +26,7 @@ instagram_username: aaronhs2848
 linkedin_username: aaronhuerta9115
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: channel/UCKgOUnCye3pCMSB9gPFML3w
+#youtube_username: channel/UCKgOUnCye3pCMSB9gPFML3w
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
