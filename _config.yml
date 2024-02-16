@@ -32,9 +32,6 @@ linkedin_username: aaronhuerta9115
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
 - title: Credly
   icon: fas fa-certificate
   url: https://www.credly.com/users/aaron-huerta-sigala
