@@ -110,9 +110,8 @@ content:
       - Gaming
       - listen to music
       - watch videos
-  - sub_title: Skills
-    layout: text
-    content: |
+      sub_title: Skills
+    description: |
     - Diseño de páginas web
     - Manejo de CMS (Drupal).
     - Diseño de aplicaciones.
