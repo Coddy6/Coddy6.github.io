@@ -49,7 +49,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Aaron and I'm a programmer. I have experience with desktop applications and some mobile applications, I also use the CMS content manager for web pages.
+  Hi, my name's Aaron and I'm a programmer. I have a great desire to contribute my knowledge and skills to the world of work.
+  I am passionate about what I study and I want to make known what I have learned, my knowledge and skills in this world of programming and develop my full potential.
+  I have experience with desktop applications and some mobile applications, I also use the CMS content manager for web pages.
 
   I am most skilled in: <mark>C++</mark> and <mark>Flutter</mark>
 
