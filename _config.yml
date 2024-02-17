@@ -64,7 +64,7 @@ content:
         link: github.com/Coddy6
         # link_text: Project Website
         additional_links:
-          - title:  sproogen/modern-resume-theme
+          - title:  flutterSchool
             icon: fab fa-github
             url: github.com/gentlemani/flutterSchool
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
