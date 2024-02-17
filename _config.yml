@@ -106,14 +106,14 @@ content:
   - title: A Little More About Me
     layout: list
     content:
-      - layout: left
+      - layout: top-middle
         title: Skills
         caption: |
-          - Web-page design.
-          - Management of CMS (Drupal).
-          - Application design.
-          - Content creation.
-          - Definition of strategies.
+          Web-page design.
+          Management of CMS (Drupal).
+          Application design.
+          Content creation.
+          Definition of strategies.
         quote: >
           Alongside my interests in networks and software engineering some of my other interests and hobbies are:
         description: |
