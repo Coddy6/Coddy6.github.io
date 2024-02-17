@@ -110,13 +110,13 @@ content:
       - Gaming
       - listen to music
       - watch videos
-      sub_title: Skills
-    description: |
-    - Diseño de páginas web
-    - Manejo de CMS (Drupal).
-    - Diseño de aplicaciones.
-    - Creación de contenido.
-    - Definición de estrategias.
+      title: Skills
+    - description: |
+      - Diseño de páginas web.
+      - Manejo de CMS (Drupal).
+      - Diseño de aplicaciones.
+      - Creación de contenido.
+      - Definición de estrategias.
 
 # Footer
 footer_show_references: true
